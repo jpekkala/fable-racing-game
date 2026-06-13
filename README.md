@@ -2,6 +2,16 @@
 
 A browser-playable **Slicks 'n Slides** clone made with **Fable 5** in Claude Code.
 
+## Play
+
+**[Play Slicks 'n Slides in your browser](https://jpekkala.github.io/fable-racing-game/)**
+
+Use the arrow keys to configure the race and press Enter to start.
+
+- Player 1: arrow keys
+- Player 2: W, A, S, D
+- Return to the menu: Escape
+
 ## Prompt
 
 > Let's create a Slicks 'n Slides clone that you can play in the browser
